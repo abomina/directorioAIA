@@ -7,7 +7,8 @@ function sumar(n1, n2) {
 
 function restar(n1, n2) {
     // restar 2 numeros
-
+    var resta = n1-n2;
+    return resta;
 }
 
 function multiplicar(n1, n2) {
