@@ -11,7 +11,9 @@ function restar(n1, n2) {
 }
 
 function multiplicar(n1, n2) {
-    // multiplicar 2 numeros
+    
+    var multiplicacion = n1 * n2;
+    return multiplicacion;
 
 }
 
